@@ -68,7 +68,7 @@ lk99-material-analysis/
 │   ├── lk99_mapper_keplermapper.ipynb
 │   ├── lk99_persistence_entropy.ipynb
 │   └── ...
-
+```
 
 ## Dependencies
 
