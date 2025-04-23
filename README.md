@@ -83,11 +83,11 @@ lk99-material-analysis/
 - pymatgen, numpy, matplotlib, ASE, IPython
 
 ## Project Goals
-Verify LK-99’s potential metallicity or superconductivity
+1. Verify LK-99’s potential metallicity or superconductivity
 
-Compare its phonon-mediated pairing with known superconductors
+2. Compare its phonon-mediated pairing with known superconductors
 
-Analyze its structural/topological features using TDA
+3. Analyze its structural/topological features using TDA
 
 ## References
 
