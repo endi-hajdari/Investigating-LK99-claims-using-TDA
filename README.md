@@ -2,10 +2,10 @@
 
 This repository contains a complete computational pipeline to evaluate the superconductivity claims of LK-99 using:
 
-- Density Functional Theory (DFT)
-- Density Functional Perturbation Theory (DFPT)
-- Electron-Phonon Coupling (EPW)
-- Topological Data Analysis (TDA)
+- Density Functional Theory (DFT); 
+- Density Functional Perturbation Theory (DFPT); 
+- Electron-Phonon Coupling (EPW); and
+- Topological Data Analysis (TDA).
 
 The project integrates Quantum ESPRESSO, Z2Pack, and Giotto-TDA libraries to assess electronic, phononic, and topological properties of LK-99.
 
